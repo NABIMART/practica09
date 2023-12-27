@@ -10,7 +10,7 @@ CODIGOS EN PROCEDIMIENTO
 En proceso de correccion por errores 
 
 
--[EJERCIIO login](src/tienda/Login.java)
+-[EJERCIO login](src/tienda/Login.java)
 
 
 
